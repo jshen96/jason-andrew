@@ -1,0 +1,9 @@
+int x;
+int g(){
+  int x;
+  int y;
+}
+int g(){
+  int x;
+  int y;
+}
